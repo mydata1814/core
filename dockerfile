@@ -26,6 +26,8 @@ new file 1994
 
 
 :wq
+
+new file
 cd ..
 
 =======
