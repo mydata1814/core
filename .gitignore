@@ -2,3 +2,5 @@
 1401.pub
 core/
 coredata/
+*.jar
+mavenfile/
